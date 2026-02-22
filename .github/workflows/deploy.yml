@@ -2,7 +2,7 @@ name: Deploy static content to Pages
 
 on:
   push:
-    branches: ['main'] # Ensure this matches your default branch name (main or master)
+    branches: ['restless-mind'] # Ensure this matches your default branch name (main or master)
 
 permissions:
   contents: read
